@@ -1,0 +1,31 @@
+<?php
+
+
+namespace App\Controllers\Examplo;
+
+use CodeIgniter\Controller;
+
+
+class Connections extends Controller
+{
+    public function index()
+    {
+    
+    }
+    
+     public function show()
+    {
+    }
+    
+    public function store()
+    {
+    }
+
+    public function update()
+    {
+    }
+    
+     public function delete()
+    {
+    }
+ }
